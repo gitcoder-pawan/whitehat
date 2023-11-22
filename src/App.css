@@ -1,0 +1,13 @@
+.App{
+  display: flex;
+}
+.app-navbar{
+  width: 10%;
+  height: 100vh;
+}
+.app-nav-content{
+  border: 1px solid black;
+  width: 90%;
+  height: 100vh;
+  padding: 10px 20px;
+}

@@ -1,0 +1,17 @@
+.home-header{
+    margin: 10px 0;
+}
+.flex{
+    display: flex;
+}
+.jc-sb{
+    justify-content: space-between;
+}
+
+.header-heading{
+    font-weight: bold;
+}
+
+.header-right{
+    width: 20%;
+}

@@ -1,0 +1,13 @@
+.navbar{
+    border: 1px solid red;
+}
+.navbar-box{
+    border: 1px solid grey;
+    &:hover{
+        background: grey;
+    }
+}
+.navbar-box-active{
+    background: black;
+    color: white
+}
